@@ -10,4 +10,6 @@ for the currency converter you will need your own api which you can get here: ht
 
 the name = main thingy is because i use them in one single function
 
+ok i made an ascii converter too
+
 do what you want with this information

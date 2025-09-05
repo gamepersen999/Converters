@@ -4,6 +4,8 @@ theres a binary converter a morse code coverter a caesar cipher and a currency c
 
 im not done with the caesa cipher rn(4 Sep 2025) it will prolly be done in like 10min or smth
 
+ok i finished the cipher
+
 for the currency converter you will need your own api which you can get here: https://www.exchangerate-api.com 
 
 the name = main thingy is because i use them in one single function
